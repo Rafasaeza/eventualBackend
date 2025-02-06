@@ -9,7 +9,7 @@ app = FastAPI()
 
 #Añadir CORS
 origins = [
-    "https://join-my-trip.vercel.app",
+    "https://enventual-frontend-rsa.vercel.app",
     "http://localhost:3000",  # Origen permitido
     # Añade otros orígenes si es necesario
 ]
